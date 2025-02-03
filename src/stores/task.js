@@ -52,8 +52,8 @@ export const useTaskStore = defineStore('task', {
       if(items) this.tasks = JSON.parse(items)
     },
     toggleDoneTask(index) {
-      console.log(index)
       this.tasks[index].done = !this.tasks[index].done
+      this.saveLocalData()
     }
   }
 })
