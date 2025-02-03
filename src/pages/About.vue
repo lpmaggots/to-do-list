@@ -22,9 +22,9 @@
 
 <script setup>
   const logos = [
-    { name: 'Teste', path: '../../public/vue-logo.png' },
-    { name: 'Teste', path: '../../public/vuetify-logo.png' },
-    { name: 'Teste', path: '../../public/netlify-logo.png' },
-    { name: 'Teste', path: '../../public/pwa-logo.png' }
+    { name: 'Vue', path: '/vue-logo.png' },
+    { name: 'Vuetify', path: '/vuetify-logo.png' },
+    { name: 'Netlify', path: '/netlify-logo.png' },
+    { name: 'PWA', path: '/pwa-logo.png' }
   ]
 </script>
