@@ -48,7 +48,7 @@
 
   const drawer = ref(null)
   const items = [
-    { text: 'Home', icon: 'mdi-home', path: '/home' },
+    { text: 'Home', icon: 'mdi-home', path: '/' },
     { text: 'About', icon: 'mdi-information-outline', path: '/about' }
   ]
 </script>
