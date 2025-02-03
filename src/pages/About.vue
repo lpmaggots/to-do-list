@@ -12,9 +12,11 @@
     <v-row>
       <v-col class="text-center mt-10">
         <h2 class="mb-5">Tecnologias utilizadas | Used technologies</h2>
-        <div class="d-flex justify-center align-center">
-          <v-img v-for="(logo, index) in logos" :key="index" :src="logo.path" width="150" height="150"></v-img>
-        </div>
+        <v-row>
+          <v-col v-for="(logo, index) in logos" :key="index" class="d-flex justify-center align-center">
+            <v-img :src="logo.path" :alt="logo.name" width="150" height="150"></v-img>
+          </v-col>
+        </v-row>
       </v-col>
     </v-row>
   </v-container>
@@ -24,7 +26,7 @@
   const logos = [
     { name: 'Vue', path: '/vue-logo.png' },
     { name: 'Vuetify', path: '/vuetify-logo.png' },
-    { name: 'Netlify', path: '/netlify-logo.png' },
+    { name: 'Netlify', path: '/netlify-logo.png' }, 
     { name: 'PWA', path: '/pwa-logo.png' }
   ]
 </script>
