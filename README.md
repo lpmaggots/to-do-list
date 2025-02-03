@@ -3,31 +3,39 @@ Este é um aplicativo de lista de tarefas desenvolvido com Vue 3 e Vite, utiliza
 
 📌 Tecnologias utilizadas:
 
-Vue 3 + Vite
-Vuetify
-Pinia (Gerenciamento de estado)
-Netlify (Deploy)
-PWA (Progressive Web App)
-💡 Funcionalidades:
-✔️ Adicionar, editar e remover tarefas
-✔️ Interface responsiva e moderna
-✔️ Gerenciamento de estado eficiente com Pinia
-✔️ Suporte a PWA para uso offline
+- Vue 3 + Vite
+- Vuetify
+- Pinia (Gerenciamento de estado)
+- Netlify (Deploy)
+- PWA (Progressive Web App)
 
-🔗 Demonstração: [Adicione o link do projeto aqui]
+💡 Funcionalidades:
+
+✔️ Adicionar, editar e remover tarefas
+
+✔️ Interface responsiva e moderna  
+
+✔️ Gerenciamento de estado eficiente com Pinia  
+
+✔️ Suporte a PWA para uso offline  
 
 # 🇺🇸 To-Do List with Vue 3, Vuetify, Pinia, and PWA
 This is a task management app built with Vue 3 and Vite, using Vuetify for the user interface and Pinia for state management. The project is lightweight, responsive, and supports PWA (Progressive Web App), allowing installation and offline usage.
 
 📌 Technologies used:
 
-Vue 3 + Vite
-Vuetify
-Pinia (State management)
-Netlify (Deployment)
-PWA (Progressive Web App)
-💡 Features:
-✔️ Add, edit, and delete tasks
-✔️ Modern and responsive UI
-✔️ Efficient state management with Pinia
+- Vue 3 + Vite
+- Vuetify
+- Pinia (State management)
+- Netlify (Deployment)
+- PWA (Progressive Web App)
+
+💡 Features:  
+
+✔️ Add, edit, and delete tasks  
+
+✔️ Modern and responsive UI  
+
+✔️ Efficient state management with Pinia  
+
 ✔️ PWA support for offline usage
