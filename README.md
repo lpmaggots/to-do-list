@@ -19,6 +19,8 @@ Este é um aplicativo de lista de tarefas desenvolvido com Vue 3 e Vite, utiliza
 
 ✔️ Suporte a PWA para uso offline  
 
+Link do netlify: https://lpm-todo-list.netlify.app/
+
 # 🇺🇸 To-Do List with Vue 3, Vuetify, Pinia, and PWA
 This is a task management app built with Vue 3 and Vite, using Vuetify for the user interface and Pinia for state management. The project is lightweight, responsive, and supports PWA (Progressive Web App), allowing installation and offline usage.
 
@@ -39,3 +41,5 @@ This is a task management app built with Vue 3 and Vite, using Vuetify for the u
 ✔️ Efficient state management with Pinia  
 
 ✔️ PWA support for offline usage
+
+Link do netlify: https://lpm-todo-list.netlify.app/
